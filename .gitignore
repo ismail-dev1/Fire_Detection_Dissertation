@@ -1,0 +1,13 @@
+# Big artifacts we are NOT committing
+*.pt
+*.onnx
+*.tar.gz
+*.zip
+*.npz
+*.npy
+runs/
+
+# Notebooks/cache
+.ipynb_checkpoints/
+__pycache__/
+.env

@@ -1,0 +1,7 @@
+path: /content/SYNFIRE_YOLOV8_SEG
+train: images/train
+val: images/val
+test: images/test
+names:
+- fire
+- smoke
