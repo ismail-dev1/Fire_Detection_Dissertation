@@ -59,36 +59,6 @@ The key finding of this research is that models trained on the generative Stable
 
 The final performance metrics and figures for all experiments are located in the results/ directory.
 
-Model
-
-Training Data
-
-Precision
-
-Recall
-
-F1-Score
-
-ResNet-50
-
-Stable Diffusion
-
-0.89
-
-0.85
-
-0.87
-
-ResNet-50
-
-Syn-Fire
-
-(add your result here)
-
-(add your result here)
-
-(add your result here)
-
 🎓 Citation
 If you use this work, please cite the dissertation:
 
