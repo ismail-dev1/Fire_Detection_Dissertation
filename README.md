@@ -1,7 +1,7 @@
-The Generative Spark: Evaluating Synthetically Trained Residual Networks for Real-World Fire Detection
+# The Generative Spark: Evaluating Synthetically Trained Residual Networks for Real-World Fire Detection
 This repository contains the source code, experimental notebooks, and results for my Master's dissertation. The project investigates the effectiveness of using generative AI (Stable Diffusion) versus curated simulations (Syn-Fire) to create synthetic training data for deep learning-based fire detection models.
 
-📝 Project Overview
+Project Overview
 The primary challenge in creating reliable vision-based fire detectors is the scarcity of diverse, real-world training data. This project tackles this problem by comparing two distinct synthetic data paradigms:
 
 Curated Synthetic Data: Using the high-fidelity, simulation-based Syn-Fire dataset.
@@ -54,7 +54,7 @@ The entire workflow, from data preprocessing to training and evaluation, is docu
 
 3_synfire_resnet_training_evaluation.ipynb: Trains and evaluates the ResNet models on the preprocessed Syn-Fire dataset.
 
-📈 Results
+Results
 The key finding of this research is that models trained on the generative Stable Diffusion dataset demonstrated superior generalization performance on the real-world test set compared to those trained on the curated Syn-Fire dataset.
 
 The final performance metrics and figures for all experiments are located in the results/ directory.
