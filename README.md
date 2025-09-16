@@ -10,7 +10,7 @@ Generative Synthetic Data: Creating a novel dataset using the Stable Diffusion 1
 
 Models based on the ResNet-18 and ResNet-50 architectures are trained on each of these synthetic datasets and then evaluated on the real-world D-Fire dataset to measure their generalization capabilities.
 
-🚀 Getting Started
+
 Prerequisites
 
 Python 3.9+
