@@ -59,7 +59,7 @@ The key finding of this research is that models trained on the generative Stable
 
 The final performance metrics and figures for all experiments are located in the results/ directory.
 
-🎓 Citation
+Citation
 If you use this work, please cite the dissertation:
 
 Ismail Faizi. (2025). The Generative Spark: Evaluating Synthetically Trained Residual Networks for Real-World Fire Detection. University of Bristol.
